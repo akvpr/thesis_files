@@ -1,0 +1,29 @@
+The reference amino acid in the query sequence did not match to our reference sequence for R670W in Q03468
+The reference amino acid in the query sequence did not match to our reference sequence for W851R in Q03468
+The reference amino acid in the query sequence did not match to our reference sequence for V957G in Q03468
+The reference amino acid in the query sequence did not match to our reference sequence for G399D in NP_000115.1
+The reference amino acid in the query sequence did not match to our reference sequence for G446D in NP_000115.1
+The reference amino acid in the query sequence did not match to our reference sequence for Q278E in NP_000115.1
+Predictions could not be done for variants in sequence NP_001026.2
+Predictions could not be done for variants in sequence NP_001027.3
+The reference amino acid in the query sequence did not match to our reference sequence for E121D in NP_006461.3
+The reference amino acid in the query sequence did not match to our reference sequence for L356F in NP_009168.4
+Database entry for ENSG00000258838_85_P was not found
+Database entry for ENSG00000258838_260_P was not found
+Database entry for ENSG00000258838_880_R was not found
+Database entry for ENSG00000258838_506_S was not found
+Database entry for ENSG00000258838_530_A was not found
+Database entry for ENSG00000258838_937_N was not found
+Database entry for ENSG00000264980_885_S was not found
+Database entry for ENSG00000264980_649_E was not found
+Database entry for ENSG00000264980_350_H was not found
+Database entry for ENSG00000264980_25_R was not found
+Database entry for ENSG00000264980_743_S was not found
+Database entry for ENSG00000264980_776_S was not found
+Database entry for ENSG00000266170_99_A was not found
+Database entry for ENSG00000108448_73_L was not found
+Database entry for ENSG00000108448_379_N was not found
+Database entry for ENSG00000108448_331_W was not found
+Database entry for ENSG00000128250_126_D was not found
+Database entry for ENSG00000128250_110_L was not found
+Database entry for ENSG00000224994_437_D was not found
